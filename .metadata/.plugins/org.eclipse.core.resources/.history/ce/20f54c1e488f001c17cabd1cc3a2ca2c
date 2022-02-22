@@ -1,0 +1,9 @@
+
+public class GitHW {
+
+	public static void main(String[] args) {
+       System.out.println("Yazgul");
+       System.out.println("I dont understand git");
+	}
+
+}

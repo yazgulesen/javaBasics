@@ -1,0 +1,28 @@
+package com.syntax.class10;
+
+import java.util.Scanner;
+
+public class GroupHW1 {
+
+	public static void main(String[] args) {
+		
+     /*Create an array of integer values using 
+	  *a scanner and calculate the sum of all 
+	  *stored elements in that array.
+		*/
+		Scanner sc=new Scanner(System.in);
+		System.out.println("please enter  four numbers ");
+		int num1=sc.nextInt();
+		int num2=sc.nextInt();
+		int num3=sc.nextInt();
+		int num4=sc.nextInt();
+		int avrg=(num1+num2+num3+num4);
+		System.out.println(avrg);
+		
+		
+		int[]number= {23,45,32,11};
+		
+		
+	}
+
+}

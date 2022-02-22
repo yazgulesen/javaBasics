@@ -1,0 +1,13 @@
+package com.syntax.class10;
+
+public class REvievwLops {
+
+	public static void main(String[] args) {
+		int x=5;
+		do {
+			System.out.println("hello batch 12");
+			x++;
+		} while (x<10);
+
+	}
+}

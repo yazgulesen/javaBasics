@@ -1,0 +1,25 @@
+package com.class11;
+
+import java.util.Scanner;
+
+public class ArrayUsingScanner {
+
+	public static void main(String[] args) {
+       /*
+        * Create an array in int values using a scanner and calculate
+        * the sum of all stored elements in that array
+        */
+		
+		//1 Take the size of the Array using scanner class from user
+		//2 create an int Array of above size
+		//3 create an int Array with elements the user
+		//4
+		
+		Scanner scanner=new Scanner(System.in);
+		System.out.println("Please enter the size of the array");
+		int size=scanner.nextInt();
+		System.out.println("The size of array "+size);
+		
+	}
+
+}

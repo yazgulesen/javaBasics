@@ -1,0 +1,22 @@
+package com.syntax.class10;
+
+public class ClassTaskCapitol {
+
+	public static void main(String[] args) {
+
+		String[]country= {"Usa","Turkmenistan", "Russia","France"};
+		
+		for(int i=0;i<country.length;i++) {
+			
+			if(country.equals(country[0])) {
+				System.out.println("capital city is DC");
+				
+			}
+			System.out.print(country[i]+" ");	
+		}
+		
+		
+		
+	}
+
+}

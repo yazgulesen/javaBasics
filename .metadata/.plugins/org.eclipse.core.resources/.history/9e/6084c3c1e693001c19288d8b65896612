@@ -1,0 +1,48 @@
+package Class12;
+
+public class ClassTaskCar1 {
+
+	// 1 first declare attributes/fields/properties
+	String brandName;
+	double storage;
+	int price;
+
+	// 2 create 3 objects with specific attributes and behaviors
+
+	void makeCall() {
+		System.out.println("Making a call");
+	}
+
+	void takePictire() {
+		System.out.println("Taking a picture");
+	}
+	
+	void printCompleteInfo() {
+		System.out.println("Brand name is "+ brandName);
+		System.out.println("The phone storage is "+storage);
+		System.out.println("The phone price is "+price);
+	}
+
+	public static void main(String[] args) {
+		
+		Phone iphone=new Phone();
+		iphone.make="Apple";
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

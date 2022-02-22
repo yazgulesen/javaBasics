@@ -1,0 +1,16 @@
+package com.syntaxjavaclass009;
+
+public class HW {
+
+	public static void main(String[] args) {
+		
+		String[]cars= {"Tesla","BMW","Jaguar","Ford","Porsche","Lada"};
+		for(String carBrand:cars) {
+			System.out.print(carBrand+" ");
+		}
+		
+		
+
+	}
+
+}

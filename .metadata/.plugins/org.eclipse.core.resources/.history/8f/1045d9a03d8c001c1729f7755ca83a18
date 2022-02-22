@@ -1,0 +1,22 @@
+package com.syntaxjavaclass009;
+
+public class ForEachLoop {
+
+	public static void main(String[] args) {
+		// if you have an array you can use for each loop to iterate/loop through the
+		// netire array
+		String[] city = { "LA", "Boston", "Ny", "DC", "Ashgabat" };
+		for (String citi : city) {
+			System.out.println(citi);
+
+		}
+		System.out.println("--------");
+        int[]number= {10,20,30,40};
+        for(int num :number) {
+        	System.out.print(num+"  ");
+        }
+        
+        
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Preview.java&apos; to &apos;JavaBasics/src/com.syntax.reviewclass1&apos;&#x0A;- Original project: &apos;JavaBasics&apos;&#x0A;- Destination element: &apos;JavaBasics/src/com.syntax.reviewclass1&apos;&#x0A;- Original element: &apos;com.syntaxClass005.Preview.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.syntax.reviewclass1" element1="/src&lt;com.syntaxClass005{Preview.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1644076272429" units="1" version="1.0"/>
+</session>

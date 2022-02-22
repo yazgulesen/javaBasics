@@ -1,0 +1,30 @@
+package Class12;
+
+public class DogCT {
+
+	// attributes
+	String breed;
+	int weight;
+	int age;
+	String color;
+
+	// behaviors
+	void sleep() {
+		System.out.println("dog is slleping");
+	}
+
+	void eat() {
+		System.out.println("dog is eating");
+	}
+
+	void play() {
+		System.out.println("dog is playing");
+	}
+
+	public static void main(String[] args) {
+
+		// 3 different objects from DogCT class
+
+	}
+
+}
